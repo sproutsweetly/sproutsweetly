@@ -15,9 +15,9 @@ hello my name is daniel👀 please follow me i would be SO jolly if you did !!! 
 </p>
 
 <p align="center">
-<img src="https://github.com/XxHeavyXMedicYaoixX/XxHeavyXMedicYaoixX/blob/1fe68e18f90da2c2867bb4cedd412b91e37fc7f9/Untitled42_20260111011117.png" width="480">
-</p>
-
-<p align="center">
 okay bye ._. puro chile y su cielo azulaaadooooo😄‼️🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱🇨🇱
   </p>
+
+<p align="center">
+<img src="https://github.com/XxHeavyXMedicYaoixX/XxHeavyXMedicYaoixX/blob/1fe68e18f90da2c2867bb4cedd412b91e37fc7f9/Untitled42_20260111011117.png" width="480">
+</p>
