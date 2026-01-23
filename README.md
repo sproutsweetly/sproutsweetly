@@ -1,4 +1,4 @@
-<img src="https://github.com/XxHeavyXMedicYaoixX/XxHeavyXMedicYaoixX/blob/8178ac3291da581814251c2a0b9f3d53cb3c1f75/Untitled116_20260123122219.png" alt="my pt skin ._." align="right" height="350"></a>
+<img src="https://github.com/XxHeavyXMedicYaoixX/XxHeavyXMedicYaoixX/blob/d50de1d80351395e12ffa640b2983dda3c212a30/Untitled116_20260123123246.png" alt="my pt skin ._." align="right" height="350"></a>
 
   
 <br>  
