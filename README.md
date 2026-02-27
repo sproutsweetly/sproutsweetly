@@ -9,20 +9,21 @@
 </p>
 
 <p align="center">
-  "ㅤever so slightly, daily and nightly - in little ways, everything staysㅤ"
+  $\color{#e6274d}{\textsf{"ㅤever so slightly, daily and nightly - in little ways, everything staysㅤ"}}$
 </p>
 
 <p align="center">
-anyㅤ prnsㅤㅤ*
+$\color{#f06832}{\textsf{anyㅤ prnsㅤㅤ*}}$
 </p>
 
 <p align="center">
-ㅤㅤ𓏬ㅤ⸼ㅤㅤㅤㅤc+h ㅤㅤㅤfreelyㅤ^⩊^
+$\color{#fc8b3f}{\textsf{ㅤㅤ𓏬ㅤ⸼ㅤㅤㅤㅤc+h ㅤㅤㅤfreelyㅤ•⩊•}}$
 </p>
 
 <p align="center">
-sandroㅤㅤ♡ㅤㅤnexㅤㅤ♡ㅤㅤnineㅤㅤㅤi love u guysㅤ<3
-
+$\color{#ffd34f}{\textsf{sandroㅤㅤ♡ㅤㅤnexㅤㅤ♡ㅤㅤnineㅤㅤㅤi love u guysㅤ<3}}$
+</p>
+  
 <p align="center">
   <img src="https://github.com/sproutsweetly/sproutsweetly/blob/3e2abbccf97816ec169a7889da2259d4a38b4a5e/5axck3.png" />
 <p align="center">
